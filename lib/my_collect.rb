@@ -1,5 +1,5 @@
 
-def my-collect
+def my-collect(array)
 
 
 
